@@ -9,10 +9,12 @@ Clone the repository.
 ```bash
 git clone <repository>
 ```
+
 Install dependencies.
-    ```bash
-    composer install
-    ```
+```bash
+composer install
+```
+
 Copy `.env.example` to `.env`. 
 
 Execute command to generate `APP_KEY`.

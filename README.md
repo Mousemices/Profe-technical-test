@@ -35,4 +35,6 @@ http://127.0.0.1:8000/api/football-competition-outcome
 
 You can use Postman or Insomnia to test the API.
 
-Just don't forget to put ***Accept application/json*** to the headers, since they are not set by default.
+You have the sample `Football_competition.txt` under folder `/tests/Stubs/`.
+
+Just don't forget to put ***Accept application/json*** to the headers [Postman, Insomnia], since they are not set by default.
